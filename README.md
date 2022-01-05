@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=SoHyung%20Kim&fontSize=90&fontColor=404040&animation=fadeIn)  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSmaller25%2Fhit-counter&count_bg=%23613AF2&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -13,3 +12,8 @@
 
 # Awards 
 :trophy:Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 최종 7위
+
+# Personal Question & Issues for Study
+- How can deep learning architecture be improved to implement human neural network, the unknown organic computer
+- What is the learning, and how can it be described into a complex system in each person's skull(or whole body)
+- AI ethics 
