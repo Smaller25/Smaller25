@@ -12,4 +12,4 @@
 :office:Center of cognition and sociality, IBS (internship) : 6 months, 2021
 
 # Awards 
-Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 최종 7위
+:trophy:Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 최종 7위
