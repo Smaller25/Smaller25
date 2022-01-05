@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=SoHyung%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SoHyung%20Kim&fontSize=90)
