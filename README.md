@@ -14,7 +14,7 @@
 :trophy:Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 7위
 
 # Research
-:sunrise: I'm waiting...
+:sunrise: I'm waiting for...
 
 
 # Personal Question & Issues for Study
