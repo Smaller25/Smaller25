@@ -2,6 +2,7 @@
 # Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-9999FF?style=flat-square&logo=C&logoColor=white"/></a>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSmaller25%2Fhit-counter&count_bg=%23613AF2&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Bio
