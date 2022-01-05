@@ -14,6 +14,8 @@
 :trophy:Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 7위
 
 # Research
+:stars:
+
 
 # Personal Question & Issues for Study
 - How can deep learning architecture be improved to implement human neural network, the unknown organic computer
