@@ -8,11 +8,11 @@
 # Bio
 (about to graduate 2022/02)
 
-B.S. in Biotechnology, Korea University (Major)
+:school:B.S. in Biotechnology, Korea University (Major)
 
-B.E. in Interdisciplinary AI, Korea University (Minor)
+:school:B.E. in Interdisciplinary AI, Korea University (Minor)
 
-Center of cognition and sociality, IBS (internship) : 6 months, 2021
+:office:Center of cognition and sociality, IBS (internship) : 6 months, 2021
 
 # Awards 
 Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 최종 7위
