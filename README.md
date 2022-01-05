@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/C-9999FF?style=flat-square&logo=C&logoColor=white"/></a>
 
 # Awards 
-:trophy:Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 최종 7위
+:trophy:Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 7위
 
 # Personal Question & Issues for Study
 - How can deep learning architecture be improved to implement human neural network, the unknown organic computer
