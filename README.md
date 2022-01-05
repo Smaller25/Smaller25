@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=SoHyung%20Kim&fontSize=90&fontColor=404040&animation=fadeIn)
 # Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-9999FF?style=flat-square&logo=C&logoColor=white"/></a>
 
 # Education (about to graduate 2022/02)
 B.S. in Biotechnology, Korea University (Major)
