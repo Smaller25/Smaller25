@@ -8,8 +8,7 @@
 # Bio
 (about to graduate 2022/02)
 
-:school:B.S. in Biotechnology, Korea University (Major)
-
+:school:B.S. in Biotechnology, Korea University (Major)\s
 :school:B.E. in Interdisciplinary AI, Korea University (Minor)
 
 :office:Center of cognition and sociality, IBS (internship) : 6 months, 2021
