@@ -25,5 +25,5 @@
 - Neurosicence, especially learning and memory
 - Deep Learning architecture
 - Single-neuron recording 
-- Brain-machine Interface 
+- Brain-Computer Interface 
 - AI ethics
