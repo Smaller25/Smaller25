@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=SoHyung%20Kim&fontSize=90&fontColor=404040&animation=fadeIn)  
 
 # Bio
-(about to graduate 2022/02)  
 :school:B.S. in Biotechnology, Korea University (Major)  
 :school:B.E. in Interdisciplinary AI, Korea University (Minor)  
 :office:Center of cognition and sociality, IBS (internship) : 6 months, 2021
