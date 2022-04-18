@@ -8,7 +8,7 @@
 # Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-9999FF?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-3152A0?style=flat-square&logo=MATLAB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MATLAB-3152A0?style=flat-square&logo=MATLAB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 
