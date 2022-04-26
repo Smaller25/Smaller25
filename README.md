@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=SoHyung%20Kim&fontSize=90&fontColor=404040&animation=fadeIn)  
 
 # Bio
-:school:B.S. in Biotechnology, Korea University (Major)  
-:school:B.E. in Interdisciplinary AI, Korea University (Minor)  
-:office:Center of cognition and sociality, IBS (internship) : 6 months, 2021
+:school:B.S. in Biotechnology, Korea University (Major)  2018.02 ~ 2022.02
+:school:B.E. in Interdisciplinary AI, Korea University (Minor)  2018.02 ~ 2022.02
+:office:Center of cognition and sociality, IBS : 2021.01 ~ 2021.06
+:office:Researcher(Bioinformatics+AI), CNAI : 2022.02 ~ 2022.04
 
 # Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -25,8 +26,8 @@
 
 
 # Interest
-- Neurosicence, especially learning and memory
-- Deep Learning architecture
-- Single-neuron recording 
+- Human Intelligence
+- GNN(graph network), SNN(spike network), various emergent property of deep architecture
 - Brain-Computer Interface 
+- Multiomics based system biology + DNN methods
 - AI ethics
