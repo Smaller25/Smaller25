@@ -17,7 +17,7 @@
 :trophy:Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 7위
 
 # Research
-:sunrise: I'm waiting for...
+📚: Differentially Exhibited Kinematics Analysis Reveals Distinct Age-Dependent Changes in Motor Coordination (poster session, KSBNS)
 
 
 # Personal Question & Issues for Study
@@ -27,7 +27,7 @@
 
 # Interest
 - Human Intelligence
-- GNN(graph network), SNN(spike network), various emergent property of deep architecture
+- brain-inspired AI, such as GNN(graph network), SNN(spike network), and gost unit(Thomas Mesnard)
 - Brain-Computer Interface 
-- Multiomics based system biology + DNN methods
+- Multiomics based system biology + AI
 - AI ethics
