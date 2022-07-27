@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/C-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 
 # Awards 
-:trophy:Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 7위
+:trophy:Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 7th final grade
 
 # Research
 📚: Differentially Exhibited Kinematics Analysis Reveals Distinct Age-Dependent Changes in Motor Coordination (poster session, KSBNS)
