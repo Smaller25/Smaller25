@@ -3,6 +3,7 @@
 # Bio
 :school:B.S. in Biotechnology, Korea University (Major)  2018.02 ~ 2022.02  
 :school:B.E. in Interdisciplinary AI, Korea University (Minor)  2018.02 ~ 2022.02  
+:school:M.S. in Artificial Intelligence, Seoul National University 2023.02 ~
 :office:Center of cognition and sociality, IBS : 2021.01 ~ 2021.06  
 :office:Researcher(Bioinformatics+AI), CNAI : 2022.02 ~ 2022.04  
 
