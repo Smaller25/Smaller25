@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=SoHyung%20Kim&fontSize=90&fontColor=404040&animation=fadeIn)  
 
+<div align="center">
 # Bio
 :school:B.S. in Biotechnology, Korea University (Major)  2018.02 ~ 2022.02  
 :school:B.E. in Interdisciplinary AI, Korea University (Minor)  2018.02 ~ 2022.02  
@@ -32,3 +33,5 @@
 - Brain-Computer Interface 
 - Multiomics based system biology + AI
 - AI ethics
+
+</div>
