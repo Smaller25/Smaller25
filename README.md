@@ -21,15 +21,15 @@
 🏆 Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 7th final grade
 
 # Research
-📚 SUBTLE: An unsupervised platform with temporal link embedding that maps animal behavior (CVPR 2022 cv4animals workshop, under review for IJCV)
-📚 Enhancing Multi-Label Long-Tailed Classification on Chest X-Rays Through ML-GCN Augmentation (ICCV 2023 CVAMD workshop)
-📚 Differentially Exhibited Kinematics Analysis Reveals Distinct Age-Dependent Changes in Motor Coordination (poster session, KSBNS 2020)
+📚 SUBTLE: An unsupervised platform with temporal link embedding that maps animal behavior (CVPR 2022 cv4animals workshop, under review for IJCV)  
+📚 Enhancing Multi-Label Long-Tailed Classification on Chest X-Rays Through ML-GCN Augmentation (ICCV 2023 CVAMD workshop)  
+📚 Differentially Exhibited Kinematics Analysis Reveals Distinct Age-Dependent Changes in Motor Coordination (poster session, KSBNS 2020)  
 
 
 # Personal Question & Issues for Study
-❓ How can we implement insights from neuroscience for improving artificial intelligence, especially for Reinforcement Learning, and Multimodal learning.
-❓ Offline Reinforcement Learning & Simulation ability 
-❓ Low-level neuronal learning mechanism : Spike, dopamine, else. 
+❓ How can we implement insights from neuroscience for improving artificial intelligence, especially for Reinforcement Learning, and Multimodal learning.  
+❓ Offline Reinforcement Learning & Simulation ability   
+❓ Low-level neuronal learning mechanism : Spike, dopamine, else.  
 
 
 # Interest
