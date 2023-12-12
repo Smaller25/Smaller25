@@ -7,9 +7,8 @@
 🏫B.E. in Interdisciplinary AI, Korea University (Minor)  2018.02 ~ 2022.02  
 🏫M.S. in Artificial Intelligence, Seoul National University 2023.02 ~ (progressing)
   
-  
 🏢Center of cognition and sociality, IBS : 2021.01 ~ 2021.06  
-🏢Researcher(Bioinformatics+AI), CNAI : 2022.02 ~ 2022.04  
+🏢Researcher(Bioinformatics + AI), CNAI : 2022.02 ~ 2022.04  
 
 # Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -19,19 +18,21 @@
 <img src="https://img.shields.io/badge/C-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 
 # Awards 
-🏆Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 7th final grade
+🏆 Medical Image Segmentation Challenge, SNUH Medical AI Challenge(MAIC) 7th final grade
 
 # Research
-📚 Differentially Exhibited Kinematics Analysis Reveals Distinct Age-Dependent Changes in Motor Coordination (poster session, KSBNS)
+📚 SUBTLE: An unsupervised platform with temporal link embedding that maps animal behavior (CVPR 2022 cv4animals workshop, under review for IJCV)
+📚 Enhancing Multi-Label Long-Tailed Classification on Chest X-Rays Through ML-GCN Augmentation (ICCV 2023 CVAMD workshop)
+📚 Differentially Exhibited Kinematics Analysis Reveals Distinct Age-Dependent Changes in Motor Coordination (poster session, KSBNS 2020)
 
 
 # Personal Question & Issues for Study
-❓ How can deep learning architecture be improved to implement human neural network, the unknown organic computer   
-❓ What is the learning, and how can it be described into a complex system in each person's skull(or whole body system)
+❓ How can we implement insights from neuroscience for improving artificial intelligence, especially for Reinforcement Learning, and Multimodal learning.
+❓ Offline Reinforcement Learning & Simulation ability 
+❓ Low-level neuronal learning mechanism : Spike, dopamine, else. 
 
 
 # Interest
-Human Intelligence / brain-inspired AI, such as GNN(graph network), SNN(spike network),    
-and gost unit(by. Thomas Mesnard & Yoshua Bengio) / Brain-Computer Interface / Multiomics based system biology + AI / AI ethics
-
+Reinforcement Learning / multimodal-AGI / SNN(spike network) and ghost unit(by. Thomas Mesnard & Yoshua Bengio) / Brain-Computer Interface / Multiomics based system biology + AI 
+\
 </div>
