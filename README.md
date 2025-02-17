@@ -7,9 +7,9 @@
 🏫B.S. in Biotechnology, Korea University (Major)  2018.02 ~ 2022.02    
 🏫B.E. in Interdisciplinary AI, Korea University (Minor)  2018.02 ~ 2022.02   
 
-🏢Researcher(AI), Actnova : 2023.07 ~ 2023.09
-🏢Researcher(Bioinformatics + AI), CNAI : 2022.02 ~ 2022.04 
-🏢Center of cognition and sociality, IBS : 2021.01 ~ 2021.06  
+🏢Researcher(AI), Actnova : 2023.07 ~ 2023.09  
+🏢Researcher(Bioinformatics + AI), CNAI : 2022.02 ~ 2022.04   
+🏢Center of cognition and sociality, IBS : 2021.01 ~ 2021.06   
  
 
 # Tech Stack
