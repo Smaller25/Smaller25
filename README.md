@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=SoHyung%20Kim&fontSize=90&fontColor=404040&animation=fadeIn)  
 
 # Bio
-🏫M.S. in Artificial Intelligence, Seoul National University 2023.02 ~ (progressing)
-🏫B.S. in Biotechnology, Korea University (Major)  2018.02 ~ 2022.02  
-🏫B.E. in Interdisciplinary AI, Korea University (Minor)  2018.02 ~ 2022.02  
+🏫M.S. in Artificial Intelligence, Seoul National University 2023.02 ~ (progressing)  
+🏫B.S. in Biotechnology, Korea University (Major)  2018.02 ~ 2022.02    
+🏫B.E. in Interdisciplinary AI, Korea University (Minor)  2018.02 ~ 2022.02   
 
 🏢Researcher(AI), Actnova : 2023.07 ~ 2023.09
 🏢Researcher(Bioinformatics + AI), CNAI : 2022.02 ~ 2022.04 
