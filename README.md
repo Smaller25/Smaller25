@@ -3,13 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=SoHyung%20Kim&fontSize=90&fontColor=404040&animation=fadeIn)  
 
 # Bio
+🏫Ph.D. in Artificial Intelligence, KAIST 2026.03 ~ 
 🏫M.S. in Artificial Intelligence, Seoul National University 2023.02 ~ 2025.08  
-🏫B.S. in Biotechnology, Korea University (Major)  2018.02 ~ 2022.02    
-🏫B.E. in Interdisciplinary AI, Korea University (Minor)  2018.02 ~ 2022.02   
+🏫B.S. in Biotechnology and Artificial Intelligence, Korea University (Major)  2018.02 ~ 2022.02    
 
+🏢Researcher(AI), Samsung Medical Center : 2025.09 ~ 2026.01
 🏢Researcher(AI), Actnova : 2023.07 ~ 2023.09  
 🏢Researcher(Bioinformatics + AI), CNAI : 2022.02 ~ 2022.04   
-🏢Center of cognition and sociality, IBS : 2021.01 ~ 2021.06   
+🏢Student Researcher, Center of cognition and sociality of IBS : 2021.01 ~ 2021.06   
  
 
 # Tech Stack
@@ -35,6 +36,6 @@
 
 
 # Interest
-Reinforcement Learning and Decision Making / multimodal-AGI / fMRI Decoding / Brain-Computer Interface / Multiomics based AI cell simulation
+Neuro-inspired AI / Knowledge-Intelligence Separation / Human-AI Alignment(Memory, Emotion)
 \
 </div>
