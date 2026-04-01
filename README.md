@@ -56,12 +56,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<br/>
-
-## 🏆 Awards
-
-- **Medical Image Segmentation Challenge** - 7th Place (Final)
-  *SNUH Medical AI Challenge (MAIC)*
 
 <br/>
 
@@ -103,39 +97,7 @@
 🤝 Human-AI Alignment (Memory & Emotion)
 ```
 
-### Key Questions
-
-</div>
-
-- **How can we implement neuroscience insights to improve AI?**
-  Focusing on Reinforcement Learning and Multimodal Learning
-
-- **Offline RL & Simulation Capabilities**
-  Learning from static datasets and synthetic environments
-
-- **Low-level Neuronal Learning Mechanisms**
-  Spike-based learning, dopamine modulation, and biological computation
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smaller25&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smaller25&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 <br/>
-
----
-
-<div align="center">
-
-*"Exploring the intersection of neuroscience and artificial intelligence"*
-
-[![Hits](https://hits.seeyoufree.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSmaller25&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufree.com)
-
-</div>
